@@ -1,0 +1,7 @@
+{
+  "name": "Geo-Decision Copilot",
+  "description": "A multimodal AI agent for location-aware business intelligence, combining maps, data visualization, and strategic reasoning.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
